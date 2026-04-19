@@ -1,4 +1,4 @@
-Project Title: Diabetes Risk Prediction
+Project Title: Diabetes Risk Prediction. 
 Description:This project predicts whether a person is diabetic using machine learning.
 
 Technologies Used:
